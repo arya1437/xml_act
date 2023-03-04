@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Religions>
+
+<religion1 name = "Catholic">
+    <history>Roman Catholicism traces its history to Jesus during the period of Roman occupation in the early 30s of the Common Era. Over a period of years after Jesus' life and death his followers spread out across the world to form a “universal” (Greek, katholikos) church with the bishop of Rome holding primacy.</history>
+    <description>The dominant religion in the Philippines with about 80% of the population identifying as Catholics.</description>
+    <location>Mostly concentrated in the northern part of the Philippines, but can be found throughout the country.</location>
+    <holy_book>Bible</holy_book>
+    <pope>Pope Francis</pope>
+<belief>
+	<belief1>Salvation through the Catholic Church is the only way to reach Heaven.</belief1>
+	<belief2>Jesus was born of a virgin.</belief2>
+	<belief3>God is a trinity comprised of the Father, the Son, and the Holy Spirit.</belief3>
+	<belief4>Jesus Christ is the divine son of God.</belief4>
+	<belief5>There is only one God.</belief5>
+</belief>
+  </religion1>
+
+<religion2 name = "Iglesia ni cristo">
+    <history>In 1913, Felix Manalo founded one such independent Christian church called Iglesia ni Cristo. It was registered under the U.S. administration of the Philippine government on July 27, 1914. The members of the congregation upheld Felix as the last messenger of God.</history>
+    <description>A Filipino-grown religion with a significant number of members, known for its grand churches and bloc voting practice.</description>
+    <location>Can be found throughout the country, with a significant number of adherents in Luzon and Metro Manila.</location>
+    <holy_book>Pasugo: God's Message Magazine</holy_book>
+    <leader>Eduardo V. Manalo</leader>
+<belief>
+	<belief1>We believe that to be saved, you need to enter Christ and be part of His body or Church.</belief1>
+	<belief2>We believe that Jesus Christ is a man and thus, not God. In other words, we don’t believe in the Trinity.</belief2>
+	<belief3>We follow the Bible and only the Bible. </belief3>
+	<belief4>We don’t celebrate Christmas, Easter, Halloween, Valentine’s Day, or any holiday based on pagan beliefs. </belief4>
+	<belief5>We believe the reestablishment of the Church is Bible-based and supported by biblical prophecy.</belief5>
+</belief>
+</religion2>
+
+<religion3 name = "Islam">
+    <history>Although its roots go back further, scholars typically date the creation of Islam to the 7th century, making it the youngest of the major world religions. Islam started in Mecca, in modern-day Saudi Arabia, during the time of the prophet Muhammad's life. Today, the faith is spreading rapidly throughout the world</history>
+    <description>The second-largest religion in the Philippines with a significant Muslim population in Mindanao and other parts of the country.</description>
+    <location>Concentrated in Mindanao, but can also be found in other parts of the country.</location>
+    <holy_book>Quran</holy_book>
+    <leader>Muhammad Khalifa</leader>
+<belief>
+	<belief1>Belief in Allah as the one and only God.</belief1>
+	<belief2>Belief in angels.</belief2>
+	<belief3>Belief in the holy books.</belief3>
+	<belief4>Belief in the Prophets... e.g. Adam, Ibrahim (Abraham), Musa (Moses), Dawud (David), Isa (Jesus)</belief4>
+	<belief5>Belief in the Day of Judgement</belief5>
+</belief>
+</religion3>
+
+<religion4 name = "Buddhism">
+    <history>When Gautama passed away around 483 B.C., his followers began to organize a religious movement. Buddha's teachings became the foundation for what would develop into Buddhism. In the 3rd century B.C., Ashoka the Great, the Mauryan Indian emperor, made Buddhism the state religion of India.</history>    
+    <description>A minority religion in the Philippines with a small but growing number of adherents, known for its philosophy of compassion and mindfulness.</description>
+    <location>Concentrated in urban areas such as Manila and Cebu.</location>
+    <holy_book>Tipitaka</holy_book>
+    <leader>Ven. Thich Nhat Hanh</leader>
+<belief>
+	<belief1>Refrain from taking life. Not killing any living being</belief1>
+	<belief2>Refrain from taking what is not given. Not stealing from anyone.</belief2>
+	<belief3>Refrain from the misuse of the senses. Not having too much sensual pleasure</belief3>
+	<belief4>Refrain from wrong speech</belief4>
+	<belief5>Refrain from intoxicants that cloud the mind</belief5>
+</belief>
+</religion4>
+
+<religion5 name = "Protestantism">
+    <history>Protestantism is a branch of Christianity that follows the theological tenets of the Protestant Reformation, a movement that began seeking to reform the Catholic Church from within in the 16th century against errors, abuses, and discrepancies</history>
+    <description>The third-largest religion in the Philippines with various denominations such as Evangelical, Methodist, and Baptist.</description>
+    <location>Can be found throughout the country, with a significant number of adherents in the Visayas and Mindanao regions.</location>
+    <holy_book>Bible</holy_book>
+    <leader>Bishop Ted Bacani</leader>
+<Solas>
+	<Solas1>Christians are saved by grace alone,</Solas1>
+	<Solas2>through faith alone</Solas2>
+	<Solas3>in Christ alone</Solas3>
+	<Solas4>as revealed by Scripture alone</Solas4>
+	<Solas5>to the glory of God alone</Solas5>
+</Solas>
+</religion5>
+
+</Religions>
+
