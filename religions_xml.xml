@@ -3,7 +3,7 @@
 <Religions>
 
 <religion1 name = "Catholic">
-    <history>Roman Catholicism traces its history to Jesus during the period of Roman occupation in the early 30s of the Common Era. Over a period of years after Jesus' life and death his followers spread out across the world to form a “universal” (Greek, katholikos) church with the bishop of Rome holding primacy.</history>
+    <history>Roman Catholicism traces its history to Jesus during the period of Roman occupation in the early 30s of the Common Era.</history>
     <location>Mostly concentrated in the northern part of the Philippines, but can be found throughout the country.</location>
     <holy_book>Bible</holy_book>
     <pope>Pope Francis</pope>
@@ -18,7 +18,7 @@
 	</religion1>
 
 <religion2 name = "Iglesia ni cristo">
-    <history>In 1913, Felix Manalo founded one such independent Christian church called Iglesia ni Cristo. It was registered under the U.S. administration of the Philippine government on July 27, 1914. The members of the congregation upheld Felix as the last messenger of God.</history>
+    <history>In 1913, Felix Manalo founded one such independent Christian church called Iglesia ni Cristo.</history>
     <description>A Filipino-grown religion with a significant number of members, known for its grand churches and bloc voting practice.</description>
     <location>Can be found throughout the country, with a significant number of adherents in Luzon and Metro Manila.</location>
     <holy_book>Pasugo: God's Message Magazine</holy_book>
@@ -34,7 +34,7 @@
 	</religion2>
 	
 <religion3 name = "Islam">
-    <history>Although its roots go back further, scholars typically date the creation of Islam to the 7th century, making it the youngest of the major world religions. Islam started in Mecca, in modern-day Saudi Arabia, during the time of the prophet Muhammad's life. Today, the faith is spreading rapidly throughout the world</history>
+    <history>Islam started in Mecca, in modern-day Saudi Arabia, during the time of the prophet Muhammad's life.</history>
     <description>The second-largest religion in the Philippines with a significant Muslim population in Mindanao and other parts of the country.</description>
     <location>Concentrated in Mindanao, but can also be found in other parts of the country.</location>
     <holy_book>Quran</holy_book>
@@ -50,7 +50,7 @@
 	</religion3>
 
 <religion4 name = "Buddhism">
-    <history>When Gautama passed away around 483 B.C., his followers began to organize a religious movement. Buddha's teachings became the foundation for what would develop into Buddhism. In the 3rd century B.C., Ashoka the Great, the Mauryan Indian emperor, made Buddhism the state religion of India.</history>    
+    <history>When Gautama passed away around 483 B.C., his followers began to organize a religious movement.</history>    
     <description>A minority religion in the Philippines with a small but growing number of adherents, known for its philosophy of compassion and mindfulness.</description>
     <location>Concentrated in urban areas such as Manila and Cebu.</location>
     <holy_book>Tipitaka</holy_book>
@@ -66,7 +66,7 @@
 	</religion4>
 
 <religion5 name = "Protestantism">
-    <history>Protestantism is a branch of Christianity that follows the theological tenets of the Protestant Reformation, a movement that began seeking to reform the Catholic Church from within in the 16th century against errors, abuses, and discrepancies</history>
+    <history>a movement that began seeking to reform the Catholic Church from within in the 16th century against errors, abuses, and discrepancies</history>
     <description>The third-largest religion in the Philippines with various denominations such as Evangelical, Methodist, and Baptist.</description>
     <location>Can be found throughout the country, with a significant number of adherents in the Visayas and Mindanao regions.</location>
     <holy_book>Bible</holy_book>
