@@ -7,28 +7,15 @@
     <location>Mostly concentrated in the northern part of the Philippines, but can be found throughout the country.</location>
     <holy_book>Bible</holy_book>
     <pope>Pope Francis</pope>
-<belief>
-	<belief1>Salvation through the Catholic Church is the only way to reach Heaven.</belief1>
-	<belief2>Jesus was born of a virgin.</belief2>
-	<belief3>God is a trinity comprised of the Father, the Son, and the Holy Spirit.</belief3>
-	<belief4>Jesus Christ is the divine son of God.</belief4>
-	<belief5>There is only one God.</belief5>
-</belief>
-<Catholic_event>
-    The main day of worship in the Catholic Church is Sunday, which is considered the "Lord's Day" and a day of rest and spiritual renewal. Catholics are expected to attend Mass on Sundays and other holy days of obligation, which are days set aside to celebrate important events in the life of Jesus, Mary, and the saints. These days vary depending on the location and local traditions, but generally include:
-</Catholic_event>
+    <belief>There is only one God.</belief>
 <event>
    <event1> Christmas Day (December 25) </event1>
    <event2> Mary, Mother of God (January 1) </event2>
    <event3> Ascension Thursday (40 days after Easter) </event3>
    <event4> The Assumption of Mary (August 15) </event4>
    <event5> All Saints' Day (November 1) </event5>
-   <event6> The Immaculate Conception (December 8) </event6>
 </event>
-<Catholic_event>
-    In addition to these holy days of obligation, there are also many other important feast days and celebrations throughout the year in the Catholic Church, including Holy Week (the week leading up to Easter), the Feast of the Epiphany (January 6), and the Feast of Corpus Christi (celebrating the Body and Blood of Christ).
-</Catholic_event>
-  </religion1>
+	</religion1>
 
 <religion2 name = "Iglesia ni cristo">
     <history>In 1913, Felix Manalo founded one such independent Christian church called Iglesia ni Cristo. It was registered under the U.S. administration of the Philippine government on July 27, 1914. The members of the congregation upheld Felix as the last messenger of God.</history>
@@ -36,60 +23,31 @@
     <location>Can be found throughout the country, with a significant number of adherents in Luzon and Metro Manila.</location>
     <holy_book>Pasugo: God's Message Magazine</holy_book>
     <leader>Eduardo V. Manalo</leader>
-<belief>
-	<belief1>We believe that to be saved, you need to enter Christ and be part of His body or Church.</belief1>
-	<belief2>We believe that Jesus Christ is a man and thus, not God. In other words, we don’t believe in the Trinity.</belief2>
-	<belief3>We follow the Bible and only the Bible. </belief3>
-	<belief4>We don’t celebrate Christmas, Easter, Halloween, Valentine’s Day, or any holiday based on pagan beliefs. </belief4>
-	<belief5>We believe the reestablishment of the Church is Bible-based and supported by biblical prophecy.</belief5>
-</belief>
-<Iglesia_event>
-    Iglesia ni Cristo is a religious organization that holds various events throughout the year. Here are some of the significant events that the Iglesia ni Cristo celebrates:
-</Iglesia_event>
+    <belief>We follow the Bible and only the Bible. </belief>
 <event>
-    <event1>Araw ng Pasasalamat - This is the annual Day of Thanksgiving celebrated on July 27th.</event1>
-    <event2>Lingap sa Mamamayan - This is a humanitarian and outreach program initiated by the Iglesia ni Cristo to provide assistance to communities affected by disasters and calamities.</event2>
-    <event3>Aid to Humanity - This is a global outreach program of the Iglesia ni Cristo, which provides aid and assistance to those in need, regardless of their race or religion.</event3>
-    <event4>Worldwide Walk - This is an annual charity walk event held in different parts of the world to raise funds for various humanitarian projects of the church.</event4>
-    <event5>EGM Memorial Lecture - This is an annual lecture series held in honor of the late Executive Minister of the church, Brother Eraño G. Manalo, who led the organization for over 46 years.</event5>
-    <event6>Anniversary of the Church - This is the anniversary celebration of the Iglesia ni Cristo, which is held every July 27th to commemorate the registration of the church in the Philippines in 1914.</event6>
-    <event7>Pasalamat ng Bayan - This is a national Thanksgiving event held in the Philippines, where members of the church gather to offer thanks and praise to God for His blessings.</event7>
-    <event8>INC Kids' Day - This is a special day dedicated to the children of the church, where various activities and programs are organized to promote their spiritual and social growth.</event8>
+    <event1>Araw ng Pasasalamat</event1>
+    <event2>Lingap sa Mamamayan</event2>
+    <event3>Aid to Humanity</event3>
+    <event4>Worldwide Walk</event4>
+    <event5>EGM Memorial Lecture</event5>
 </event>
-<Iglesia_event>
-    These are just some of the significant events that the Iglesia ni Cristo celebrates throughout the year.
-</Iglesia_event>
-</religion2>
-
+	</religion2>
+	
 <religion3 name = "Islam">
     <history>Although its roots go back further, scholars typically date the creation of Islam to the 7th century, making it the youngest of the major world religions. Islam started in Mecca, in modern-day Saudi Arabia, during the time of the prophet Muhammad's life. Today, the faith is spreading rapidly throughout the world</history>
     <description>The second-largest religion in the Philippines with a significant Muslim population in Mindanao and other parts of the country.</description>
     <location>Concentrated in Mindanao, but can also be found in other parts of the country.</location>
     <holy_book>Quran</holy_book>
     <leader>Muhammad Khalifa</leader>
-<belief>
-	<belief1>Belief in Allah as the one and only God.</belief1>
-	<belief2>Belief in angels.</belief2>
-	<belief3>Belief in the holy books.</belief3>
-	<belief4>Belief in the Prophets... e.g. Adam, Ibrahim (Abraham), Musa (Moses), Dawud (David), Isa (Jesus)</belief4>
-	<belief5>Belief in the Day of Judgement</belief5>
-</belief>
-<Islam_event>
-    There are many events and festivals in Islam that are celebrated by Muslims around the world. Here are some of the significant events in Islam:
-</Islam_event>
+    <belief>Belief in Allah as the one and only God.</belief>
 <event>
-    <event1>Ramadan - This is the holiest month of the Islamic calendar when Muslims fast from dawn to sunset for 30 days. It is a time of spiritual reflection, increased devotion, and charitable acts.</event1>
-    <event2>Eid al-Fitr - This is the festival of breaking the fast that marks the end of Ramadan. Muslims celebrate this day with special prayers, family gatherings, and feasts.</event2>
-    <event3>Hajj - This is the annual Islamic pilgrimage to the holy city of Mecca in Saudi Arabia. It is mandatory for all able-bodied Muslims to perform Hajj at least once in their lifetime.</event3>
-    <event4>Eid al-Adha - This is the festival of sacrifice that commemorates the willingness of Prophet Ibrahim (Abraham) to sacrifice his son Ishmael (Isma'il) for the sake of God. Muslims celebrate this day with prayers, sacrifice of animals, and distribution of meat to the poor and needy.</event4>
-    <event5>Mawlid al-Nabi - This is the celebration of the birthday of the Prophet Muhammad (PBUH), which is observed in the month of Rabi' al-Awwal, the third month of the Islamic calendar.</event5>
-    <event6>Laylat al-Qadr - This is the Night of Power, which is believed to be the holiest night of the year in Islam. It is celebrated during the last 10 days of Ramadan.</event6>
-    <event7>Ashura - This is the 10th day of Muharram, the first month of the Islamic calendar. It commemorates the martyrdom of Prophet Muhammad's grandson, Husayn ibn Ali, in the Battle of Karbala.</event7>
+    <event1>Ramadan</event1>
+    <event2>Eid al-Fitr</event2>
+    <event3>Hajj </event3>
+    <event4>Eid al-Adha</event4>
+    <event5>Mawlid al-Nabi</event5>
 </event>
-<Islam_event>
-    These are some of the significant events in Islam, but there are many other cultural and regional festivals celebrated by Muslims around the world.
-</Islam_event>
-</religion3>
+	</religion3>
 
 <religion4 name = "Buddhism">
     <history>When Gautama passed away around 483 B.C., his followers began to organize a religious movement. Buddha's teachings became the foundation for what would develop into Buddhism. In the 3rd century B.C., Ashoka the Great, the Mauryan Indian emperor, made Buddhism the state religion of India.</history>    
@@ -97,29 +55,15 @@
     <location>Concentrated in urban areas such as Manila and Cebu.</location>
     <holy_book>Tipitaka</holy_book>
     <leader>Ven. Thich Nhat Hanh</leader>
-<belief>
-	<belief1>Refrain from taking life. Not killing any living being</belief1>
-	<belief2>Refrain from taking what is not given. Not stealing from anyone.</belief2>
-	<belief3>Refrain from the misuse of the senses. Not having too much sensual pleasure</belief3>
-	<belief4>Refrain from wrong speech</belief4>
-	<belief5>Refrain from intoxicants that cloud the mind</belief5>
-</belief>
-<Buddhism_event>
-    Buddhism has several important festivals and events throughout the year that are celebrated by Buddhists all over the world. Here are some of the significant events in Buddhism:
-</Buddhism_event>
+    <belief>Refrain from taking what is not given. Not stealing from anyone.</belief>
 <event>
-    <event1>Vesak - This is the most important Buddhist festival, which commemorates the birth, enlightenment, and death (parinirvana) of the Buddha. It is celebrated on the full moon day in May.</event1>
-    <event2>Magha Puja - Also known as Sangha Day, this festival commemorates the occasion when 1,250 arahants (enlightened disciples) gathered spontaneously to pay respect to the Buddha. It is celebrated on the full moon day in February or March.</event2>
-    <event3>Asalha Puja - This festival commemorates the Buddha's first sermon, known as the Dhammacakkappavattana Sutta, which he delivered to his five disciples at the Deer Park in Sarnath. It is celebrated on the full moon day in July.</event3>
-    <event4>Uposatha - This is a fortnightly Buddhist observance day, which falls on the new moon and full moon days of the lunar calendar. It is a time for practicing meditation, listening to Dharma teachings, and making offerings to the Sangha.</event4>
-    <event5>Kathina - This festival marks the end of the Vassa, the three-month rainy season retreat observed by monks in Theravada Buddhism. It is celebrated by offering robes and other requisites to the Sangha.</event5>
-    <event6>Pavarana - This is a ritual performed at the end of the Vassa retreat, in which the Sangha members ask each other for forgiveness for any offense they may have committed during the retreat.</event6>
-    <event7>Loy Krathong - This is a festival celebrated in Thailand and other parts of Southeast Asia, which involves floating small boats made of banana leaves, flowers, and candles on rivers and lakes. It is usually held on the full moon day in November.</event7>
+    <event1>Vesak</event1>
+    <event2>Magha Puja</event2>
+    <event3>Asalha Puja </event3>
+    <event4>Uposatha</event4>
+    <event5>Kathina</event5> 
 </event>
-<Buddhism_event>
-   These are some of the significant events in Buddhism, but there are many other cultural and regional festivals celebrated by Buddhists around the world. 
-</Buddhism_event>
-</religion4>
+	</religion4>
 
 <religion5 name = "Protestantism">
     <history>Protestantism is a branch of Christianity that follows the theological tenets of the Protestant Reformation, a movement that began seeking to reform the Catholic Church from within in the 16th century against errors, abuses, and discrepancies</history>
@@ -127,23 +71,14 @@
     <location>Can be found throughout the country, with a significant number of adherents in the Visayas and Mindanao regions.</location>
     <holy_book>Bible</holy_book>
     <leader>Bishop Ted Bacani</leader>
-<Solas>
-	<Solas1>Christians are saved by grace alone,</Solas1>
-	<Solas2>through faith alone</Solas2>
-	<Solas3>in Christ alone</Solas3>
-	<Solas4>as revealed by Scripture alone</Solas4>
-	<Solas5>to the glory of God alone</Solas5>
-</Solas>
-<Protestantism_event>
-    Protestantism is a diverse and wide-ranging movement with many different denominations and traditions, each with its own set of events and practices. However, here are some key events that are generally significant in the history of Protestantism:
-</Protestantism_event>
+    <befief>Christians are saved by grace alone,</befief>
+
 <event>
-    <event1>The Reformation: The Reformation was a 16th-century movement that began in Europe and challenged the authority of the Roman Catholic Church. It was led by figures such as Martin Luther, John Calvin, and Huldrych Zwingli, who sought to reform the Church and return to a more biblical and pure form of Christianity.</event1>
-    <event2>The Diet of Worms: The Diet of Worms was a historic assembly held in 1521 in the German city of Worms, where Martin Luther was called to defend his beliefs and teachings. He famously declared, "Here I stand, I can do no other," refusing to recant his ideas and sparking a major split within the Church.</event2>
-    <event3>The Great Awakening: The Great Awakening was a period of religious revival that took place in the American colonies in the 18th century, led by preachers such as George Whitefield and Jonathan Edwards. It emphasized personal salvation, emotional experiences, and a return to fundamental Christian teachings.</event3>
-    <event4>The Ecumenical Movement: The Ecumenical Movement began in the early 20th century and sought to promote unity and cooperation among different Christian denominations, including Protestant, Catholic, and Orthodox churches. It led to the formation of organizations such as the World Council of Churches.</event4>
-    <event5>The Civil Rights Movement: The Civil Rights Movement in the United States was led in part by Protestant pastors and leaders, such as Martin Luther King Jr., who saw their struggle for racial justice as a deeply spiritual and religious cause.</event5>
-    <event6>The Emergent Church Movement: The Emergent Church Movement began in the late 20th and early 21st century as a response to what some saw as the rigid and hierarchical structures of traditional Protestant churches. It emphasized community, social justice, and a more flexible and open approach to Christian beliefs and practices.</event6>
+    <event1>The Reformation</event1>
+    <event2>The Diet of Worms</event2>
+    <event3>The Great Awakening</event3>
+    <event4>The Ecumenical Movement</event4>
+    <event5>The Civil Rights Movement</event5>
 </event>
 </religion5>
 </Religions>
