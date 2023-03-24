@@ -2,12 +2,14 @@
 
 <Religions>
 
-<religion1 name = "Catholic">
+<religion id="1">
+
+    <religionname>Catholic</religionname>
     <history>Roman Catholicism traces its history to Jesus during the period of Roman occupation in the early 30s of the Common Era.</history>
     <location>Mostly concentrated in the northern part of the Philippines, but can be found throughout the country.</location>
     <holy_book>Bible</holy_book>
-    <pope>Pope Francis</pope>
-    <belief>There is only one God.</belief>
+    <leader>Pope Francis</leader>
+
 <event>
    <event1> Christmas Day</event1>
    <event2> Mary, Mother of God</event2>
@@ -15,15 +17,15 @@
    <event4> The Assumption of Mary</event4>
    <event5> All Saints' Day</event5>
 </event>
-	</religion1>
+	</religion>
 
-<religion2 name = "Iglesia ni cristo">
+<religion id="2">
+
+    <religionname>Iglesia ni Cristo</religionname>
     <history>In 1913, Felix Manalo founded one such independent Christian church called Iglesia ni Cristo.</history>
-    <description>A Filipino-grown religion with a significant number of members, known for its grand churches and bloc voting practice.</description>
     <location>Can be found throughout the country, with a significant number of adherents in Luzon and Metro Manila.</location>
     <holy_book>Pasugo: God's Message Magazine</holy_book>
     <leader>Eduardo V. Manalo</leader>
-    <belief>We follow the Bible and only the Bible. </belief>
 <event>
     <event1>Araw ng Pasasalamat</event1>
     <event2>Lingap sa Mamamayan</event2>
@@ -31,15 +33,15 @@
     <event4>Worldwide Walk</event4>
     <event5>EGM Memorial Lecture</event5>
 </event>
-	</religion2>
+	</religion>
 	
-<religion3 name = "Islam">
+<religion id="3">
+
+    <religionname>Islam</religionname>
     <history>Islam started in Mecca, in modern-day Saudi Arabia, during the time of the prophet Muhammad's life.</history>
-    <description>The second-largest religion in the Philippines with a significant Muslim population in Mindanao and other parts of the country.</description>
     <location>Concentrated in Mindanao, but can also be found in other parts of the country.</location>
     <holy_book>Quran</holy_book>
     <leader>Muhammad Khalifa</leader>
-    <belief>Belief in Allah as the one and only God.</belief>
 <event>
     <event1>Ramadan</event1>
     <event2>Eid al-Fitr</event2>
@@ -47,15 +49,15 @@
     <event4>Eid al-Adha</event4>
     <event5>Mawlid al-Nabi</event5>
 </event>
-	</religion3>
+	</religion>
 
-<religion4 name = "Buddhism">
+<religion id="4">
+
+    <religionname>Buddhism</religionname>
     <history>When Gautama passed away around 483 B.C., his followers began to organize a religious movement.</history>    
-    <description>A minority religion in the Philippines with a small but growing number of adherents, known for its philosophy of compassion and mindfulness.</description>
     <location>Concentrated in urban areas such as Manila and Cebu.</location>
     <holy_book>Tipitaka</holy_book>
     <leader>Ven. Thich Nhat Hanh</leader>
-    <belief>Refrain from taking what is not given. Not stealing from anyone.</belief>
 <event>
     <event1>Vesak</event1>
     <event2>Magha Puja</event2>
@@ -63,15 +65,15 @@
     <event4>Uposatha</event4>
     <event5>Kathina</event5> 
 </event>
-	</religion4>
+	</religion>
 
-<religion5 name = "Protestantism">
+<religion id="5">
+
+    <religionname>Protestantism</religionname>
     <history>a movement that began seeking to reform the Catholic Church from within in the 16th century against errors, abuses, and discrepancies</history>
-    <description>The third-largest religion in the Philippines with various denominations such as Evangelical, Methodist, and Baptist.</description>
     <location>Can be found throughout the country, with a significant number of adherents in the Visayas and Mindanao regions.</location>
     <holy_book>Bible</holy_book>
     <leader>Bishop Ted Bacani</leader>
-    <befief>Christians are saved by grace alone,</befief>
 
 <event>
     <event1>The Reformation</event1>
@@ -80,6 +82,5 @@
     <event4>The Ecumenical Movement</event4>
     <event5>The Civil Rights Movement</event5>
 </event>
-</religion5>
+</religion>
 </Religions>
-
